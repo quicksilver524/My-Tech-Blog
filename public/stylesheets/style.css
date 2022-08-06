@@ -44,11 +44,11 @@ header nav a {
   color: #bee2c3;
   font-size: 2rem;
 }
-header nav button {
-  margin-left: 5rem;
-  box-shadow: 0px 0px 0px transparent;
-  border: 0px solid transparent;
-  text-shadow: 0px 0px 0px transparent;
+header nav button:hover {
+  background: none;
+  color: #3486eb;
+  transition: all 0.3s ease-in-out;
+  font-size: 20px;
 }
 .post-list {
   list-style: none;
