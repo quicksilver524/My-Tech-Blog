@@ -5,14 +5,9 @@
 
 # My-Tech-Blog
 
-![Tech Blog](images/tech-blog.png)
-
-## Description
-
-This is a front and backend for a blog site to share different tech ideas and expand knowledge with individuals. It is a simplistic design meant to be built upon to expand ideas and learn.
-
 ## Table of Contents
 
+- [Description](#Description)
 - [Walkthrough-Video](#Walkthrough-Video)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -20,6 +15,12 @@ This is a front and backend for a blog site to share different tech ideas and ex
 - [Website-heroku-deployment](#Website-heroku-deployment)
 - [Created by](#Created-by)
 - [Questions](#questions)
+
+![Tech Blog](images/tech-blog.png)
+
+## Description
+
+This is a front and backend for a blog site to share different tech ideas and expand knowledge with individuals. It is a simplistic design meant to be built upon to expand ideas and learn.
 
 ## Walkthrough-Video
 
