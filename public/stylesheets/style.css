@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #f9e0ae;
+  background-color: #fefefe;
 }
 
 a {
@@ -22,7 +22,7 @@ ol {
 
 header {
   width: 100%;
-  background-color: #682c0e;
+  background-color: #5fb9b9;
   height: 10vh;
   display: flex;
   justify-content: space-between;
@@ -30,7 +30,7 @@ header {
 }
 
 header h1 a {
-  color: #f9e0ae;
+  color: #000000;
   margin-left: 2rem;
 }
 
