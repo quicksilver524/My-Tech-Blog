@@ -41,12 +41,12 @@ header nav {
 }
 header nav button,
 header nav a {
-  color: #f9e0ae;
+  color: #bee2c3;
   font-size: 2rem;
 }
 header nav button {
   margin-left: 5rem;
-  background: #682c0e;
+  background: #0852d2;
   box-shadow: 0px 0px 0px transparent;
   border: 0px solid transparent;
   text-shadow: 0px 0px 0px transparent;
@@ -68,14 +68,14 @@ header nav button {
   justify-content: space-between;
   align-items: center;
   border-radius: 5px;
-  background-color: #682c0e;
+  background-color: #288391;
   color: #f9e0ae;
   padding: 1rem;
 }
 .post-text {
   width: 60rem;
   height: 7rem;
-  border: 3px solid #682c0e;
+  border: 3px solid #25aec0;
   border-radius: 5px;
   padding: 1rem;
   overflow-y: scroll;
@@ -89,8 +89,8 @@ header nav button {
   margin: 0 auto;
 }
 .comments-wrapper h2 {
-  color: #682c0e;
-  border-bottom: 1px solid #682c0e;
+  color: #21889a;
+  border-bottom: 1px solid #135a7b;
 }
 .comment-form {
   margin-top: 1rem;
