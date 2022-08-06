@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ajcuddeback/tech-blog.git"
+    "url": "git+https://github.com/quicksilver524/My-Tech-Blog.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ajcuddeback/tech-blog/issues"
+    "url": "https://github.com/quicksilver524/My-Tech-Blog/issues"
   },
-  "homepage": "https://github.com/ajcuddeback/tech-blog#readme",
+  "homepage": "https://github.com/quicksilver524/My-Tech-Blog#readme",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "connect-session-sequelize": "^7.1.0",
